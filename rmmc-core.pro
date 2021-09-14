@@ -1,5 +1,5 @@
 QT -= gui
-
+#CONFIG -= qt
 CONFIG += c++11 console
 CONFIG -= app_bundle
 
@@ -18,13 +18,8 @@ CONFIG += lrelease
 CONFIG += embed_translations
 CONFIG += console
 
-# Default rules for deployment.
-qnx: target.path = /tmp/$${TARGET}/bin
-else: unix:!android: target.path = /opt/$${TARGET}/bin
-!isEmpty(target.path): INSTALLS += target
-
 DISTFILES +=
 
 HEADERS += \
-    rmmc.h \
+    color.h \
     yuansu.h
