@@ -5,475 +5,475 @@
     <name>QObject</name>
     <message>
         <source>氢</source>
-        <translation type="unfinished"></translation>
+        <translation>氢</translation>
     </message>
     <message>
         <source>氦</source>
-        <translation type="unfinished"></translation>
+        <translation>氦</translation>
     </message>
     <message>
         <source>锂</source>
-        <translation type="unfinished"></translation>
+        <translation>锂</translation>
     </message>
     <message>
         <source>铍</source>
-        <translation type="unfinished"></translation>
+        <translation>铍</translation>
     </message>
     <message>
         <source>硼</source>
-        <translation type="unfinished"></translation>
+        <translation>硼</translation>
     </message>
     <message>
         <source>碳</source>
-        <translation type="unfinished"></translation>
+        <translation>碳</translation>
     </message>
     <message>
         <source>氮</source>
-        <translation type="unfinished"></translation>
+        <translation>氮</translation>
     </message>
     <message>
         <source>氧</source>
-        <translation type="unfinished"></translation>
+        <translation>氧</translation>
     </message>
     <message>
         <source>氟</source>
-        <translation type="unfinished"></translation>
+        <translation>氟</translation>
     </message>
     <message>
         <source>氖</source>
-        <translation type="unfinished"></translation>
+        <translation>氖</translation>
     </message>
     <message>
         <source>钠</source>
-        <translation type="unfinished"></translation>
+        <translation>钠</translation>
     </message>
     <message>
         <source>镁</source>
-        <translation type="unfinished"></translation>
+        <translation>镁</translation>
     </message>
     <message>
         <source>铝</source>
-        <translation type="unfinished"></translation>
+        <translation>铝</translation>
     </message>
     <message>
         <source>硅</source>
-        <translation type="unfinished"></translation>
+        <translation>硅</translation>
     </message>
     <message>
         <source>磷</source>
-        <translation type="unfinished"></translation>
+        <translation>磷</translation>
     </message>
     <message>
         <source>硫</source>
-        <translation type="unfinished"></translation>
+        <translation>硫</translation>
     </message>
     <message>
         <source>氯</source>
-        <translation type="unfinished"></translation>
+        <translation>氯</translation>
     </message>
     <message>
         <source>氩</source>
-        <translation type="unfinished"></translation>
+        <translation>氩</translation>
     </message>
     <message>
         <source>钾</source>
-        <translation type="unfinished"></translation>
+        <translation>钾</translation>
     </message>
     <message>
         <source>钙</source>
-        <translation type="unfinished"></translation>
+        <translation>钙</translation>
     </message>
     <message>
         <source>钪</source>
-        <translation type="unfinished"></translation>
+        <translation>钪</translation>
     </message>
     <message>
         <source>钛</source>
-        <translation type="unfinished"></translation>
+        <translation>钛</translation>
     </message>
     <message>
         <source>钒</source>
-        <translation type="unfinished"></translation>
+        <translation>钒</translation>
     </message>
     <message>
         <source>铬</source>
-        <translation type="unfinished"></translation>
+        <translation>铬</translation>
     </message>
     <message>
         <source>锰</source>
-        <translation type="unfinished"></translation>
+        <translation>锰</translation>
     </message>
     <message>
         <source>铁</source>
-        <translation type="unfinished"></translation>
+        <translation>铁</translation>
     </message>
     <message>
         <source>钴</source>
-        <translation type="unfinished"></translation>
+        <translation>钴</translation>
     </message>
     <message>
         <source>镍</source>
-        <translation type="unfinished"></translation>
+        <translation>镍</translation>
     </message>
     <message>
         <source>铜</source>
-        <translation type="unfinished"></translation>
+        <translation>铜</translation>
     </message>
     <message>
         <source>锌</source>
-        <translation type="unfinished"></translation>
+        <translation>锌</translation>
     </message>
     <message>
         <source>镓</source>
-        <translation type="unfinished"></translation>
+        <translation>镓</translation>
     </message>
     <message>
         <source>锗</source>
-        <translation type="unfinished"></translation>
+        <translation>锗</translation>
     </message>
     <message>
         <source>砷</source>
-        <translation type="unfinished"></translation>
+        <translation>砷</translation>
     </message>
     <message>
         <source>硒</source>
-        <translation type="unfinished"></translation>
+        <translation>硒</translation>
     </message>
     <message>
         <source>溴</source>
-        <translation type="unfinished"></translation>
+        <translation>溴</translation>
     </message>
     <message>
         <source>氪</source>
-        <translation type="unfinished"></translation>
+        <translation>氪</translation>
     </message>
     <message>
         <source>铷</source>
-        <translation type="unfinished"></translation>
+        <translation>铷</translation>
     </message>
     <message>
         <source>锶</source>
-        <translation type="unfinished"></translation>
+        <translation>锶</translation>
     </message>
     <message>
         <source>钇</source>
-        <translation type="unfinished"></translation>
+        <translation>钇</translation>
     </message>
     <message>
         <source>锆</source>
-        <translation type="unfinished"></translation>
+        <translation>锆</translation>
     </message>
     <message>
         <source>铌</source>
-        <translation type="unfinished"></translation>
+        <translation>铌</translation>
     </message>
     <message>
         <source>钼</source>
-        <translation type="unfinished"></translation>
+        <translation>钼</translation>
     </message>
     <message>
         <source>锝</source>
-        <translation type="unfinished"></translation>
+        <translation>锝</translation>
     </message>
     <message>
         <source>钌</source>
-        <translation type="unfinished"></translation>
+        <translation>钌</translation>
     </message>
     <message>
         <source>铑</source>
-        <translation type="unfinished"></translation>
+        <translation>铑</translation>
     </message>
     <message>
         <source>钯</source>
-        <translation type="unfinished"></translation>
+        <translation>钯</translation>
     </message>
     <message>
         <source>银</source>
-        <translation type="unfinished"></translation>
+        <translation>银</translation>
     </message>
     <message>
         <source>镉</source>
-        <translation type="unfinished"></translation>
+        <translation>镉</translation>
     </message>
     <message>
         <source>铟</source>
-        <translation type="unfinished"></translation>
+        <translation>铟</translation>
     </message>
     <message>
         <source>锡</source>
-        <translation type="unfinished"></translation>
+        <translation>锡</translation>
     </message>
     <message>
         <source>锑</source>
-        <translation type="unfinished"></translation>
+        <translation>锑</translation>
     </message>
     <message>
         <source>碲</source>
-        <translation type="unfinished"></translation>
+        <translation>碲</translation>
     </message>
     <message>
         <source>碘</source>
-        <translation type="unfinished"></translation>
+        <translation>碘</translation>
     </message>
     <message>
         <source>氙</source>
-        <translation type="unfinished"></translation>
+        <translation>氙</translation>
     </message>
     <message>
         <source>铯</source>
-        <translation type="unfinished"></translation>
+        <translation>铯</translation>
     </message>
     <message>
         <source>钡</source>
-        <translation type="unfinished"></translation>
+        <translation>钡</translation>
     </message>
     <message>
         <source>镧</source>
-        <translation type="unfinished"></translation>
+        <translation>镧</translation>
     </message>
     <message>
         <source>铈</source>
-        <translation type="unfinished"></translation>
+        <translation>铈</translation>
     </message>
     <message>
         <source>镨</source>
-        <translation type="unfinished"></translation>
+        <translation>镨</translation>
     </message>
     <message>
         <source>钕</source>
-        <translation type="unfinished"></translation>
+        <translation>钕</translation>
     </message>
     <message>
         <source>钷</source>
-        <translation type="unfinished"></translation>
+        <translation>钷</translation>
     </message>
     <message>
         <source>钐</source>
-        <translation type="unfinished"></translation>
+        <translation>钐</translation>
     </message>
     <message>
         <source>铕</source>
-        <translation type="unfinished"></translation>
+        <translation>铕</translation>
     </message>
     <message>
         <source>钆</source>
-        <translation type="unfinished"></translation>
+        <translation>钆</translation>
     </message>
     <message>
         <source>铽</source>
-        <translation type="unfinished"></translation>
+        <translation>铽</translation>
     </message>
     <message>
         <source>镝</source>
-        <translation type="unfinished"></translation>
+        <translation>镝</translation>
     </message>
     <message>
         <source>钬</source>
-        <translation type="unfinished"></translation>
+        <translation>钬</translation>
     </message>
     <message>
         <source>铒</source>
-        <translation type="unfinished"></translation>
+        <translation>铒</translation>
     </message>
     <message>
         <source>铥</source>
-        <translation type="unfinished"></translation>
+        <translation>铥</translation>
     </message>
     <message>
         <source>镱</source>
-        <translation type="unfinished"></translation>
+        <translation>镱</translation>
     </message>
     <message>
         <source>镥</source>
-        <translation type="unfinished"></translation>
+        <translation>镥</translation>
     </message>
     <message>
         <source>铪</source>
-        <translation type="unfinished"></translation>
+        <translation>铪</translation>
     </message>
     <message>
         <source>钽</source>
-        <translation type="unfinished"></translation>
+        <translation>钽</translation>
     </message>
     <message>
         <source>钨</source>
-        <translation type="unfinished"></translation>
+        <translation>钨</translation>
     </message>
     <message>
         <source>铼</source>
-        <translation type="unfinished"></translation>
+        <translation>铼</translation>
     </message>
     <message>
         <source>锇</source>
-        <translation type="unfinished"></translation>
+        <translation>锇</translation>
     </message>
     <message>
         <source>铱</source>
-        <translation type="unfinished"></translation>
+        <translation>铱</translation>
     </message>
     <message>
         <source>铂</source>
-        <translation type="unfinished"></translation>
+        <translation>铂</translation>
     </message>
     <message>
         <source>金</source>
-        <translation type="unfinished"></translation>
+        <translation>金</translation>
     </message>
     <message>
         <source>汞</source>
-        <translation type="unfinished"></translation>
+        <translation>汞</translation>
     </message>
     <message>
         <source>铊</source>
-        <translation type="unfinished"></translation>
+        <translation>铊</translation>
     </message>
     <message>
         <source>铅</source>
-        <translation type="unfinished"></translation>
+        <translation>铅</translation>
     </message>
     <message>
         <source>铋</source>
-        <translation type="unfinished"></translation>
+        <translation>铋</translation>
     </message>
     <message>
         <source>钋</source>
-        <translation type="unfinished"></translation>
+        <translation>钋</translation>
     </message>
     <message>
         <source>砹</source>
-        <translation type="unfinished"></translation>
+        <translation>砹</translation>
     </message>
     <message>
         <source>氡</source>
-        <translation type="unfinished"></translation>
+        <translation>氡</translation>
     </message>
     <message>
         <source>钫</source>
-        <translation type="unfinished"></translation>
+        <translation>钫</translation>
     </message>
     <message>
         <source>镭</source>
-        <translation type="unfinished"></translation>
+        <translation>镭</translation>
     </message>
     <message>
         <source>锕</source>
-        <translation type="unfinished"></translation>
+        <translation>锕</translation>
     </message>
     <message>
         <source>钍</source>
-        <translation type="unfinished"></translation>
+        <translation>钍</translation>
     </message>
     <message>
         <source>镤</source>
-        <translation type="unfinished"></translation>
+        <translation>镤</translation>
     </message>
     <message>
         <source>铀</source>
-        <translation type="unfinished"></translation>
+        <translation>铀</translation>
     </message>
     <message>
         <source>镎</source>
-        <translation type="unfinished"></translation>
+        <translation>镎</translation>
     </message>
     <message>
         <source>钚</source>
-        <translation type="unfinished"></translation>
+        <translation>钚</translation>
     </message>
     <message>
         <source>镅</source>
-        <translation type="unfinished"></translation>
+        <translation>镅</translation>
     </message>
     <message>
         <source>锔</source>
-        <translation type="unfinished"></translation>
+        <translation>锔</translation>
     </message>
     <message>
         <source>锫</source>
-        <translation type="unfinished"></translation>
+        <translation>锫</translation>
     </message>
     <message>
         <source>锎</source>
-        <translation type="unfinished"></translation>
+        <translation>锎</translation>
     </message>
     <message>
         <source>锿</source>
-        <translation type="unfinished"></translation>
+        <translation>锿</translation>
     </message>
     <message>
         <source>镄</source>
-        <translation type="unfinished"></translation>
+        <translation>镄</translation>
     </message>
     <message>
         <source>钔</source>
-        <translation type="unfinished"></translation>
+        <translation>钔</translation>
     </message>
     <message>
         <source>锘</source>
-        <translation type="unfinished"></translation>
+        <translation>锘</translation>
     </message>
     <message>
         <source>铹</source>
-        <translation type="unfinished"></translation>
+        <translation>铹</translation>
     </message>
     <message>
         <source>𬬻</source>
-        <translation type="unfinished"></translation>
+        <translation>𬬻</translation>
     </message>
     <message>
         <source>𬭊</source>
-        <translation type="unfinished"></translation>
+        <translation>𬭊</translation>
     </message>
     <message>
         <source>𬭳</source>
-        <translation type="unfinished"></translation>
+        <translation>𬭳</translation>
     </message>
     <message>
         <source>𬭛</source>
-        <translation type="unfinished"></translation>
+        <translation>𬭛</translation>
     </message>
     <message>
         <source>𬭶</source>
-        <translation type="unfinished"></translation>
+        <translation>𬭶</translation>
     </message>
     <message>
         <source>鿏</source>
-        <translation type="unfinished"></translation>
+        <translation>鿏</translation>
     </message>
     <message>
         <source>𫟼</source>
-        <translation type="unfinished"></translation>
+        <translation>𫟼</translation>
     </message>
     <message>
         <source>𬬭</source>
-        <translation type="unfinished"></translation>
+        <translation>𬬭</translation>
     </message>
     <message>
         <source>鿔</source>
-        <translation type="unfinished"></translation>
+        <translation>鿔</translation>
     </message>
     <message>
         <source>鿭</source>
-        <translation type="unfinished"></translation>
+        <translation>鿭</translation>
     </message>
     <message>
         <source>𫓧</source>
-        <translation type="unfinished"></translation>
+        <translation>𫓧</translation>
     </message>
     <message>
         <source>镆</source>
-        <translation type="unfinished"></translation>
+        <translation>镆</translation>
     </message>
     <message>
         <source>𫟷</source>
-        <translation type="unfinished"></translation>
+        <translation>𫟷</translation>
     </message>
     <message>
         <source>鿬</source>
-        <translation type="unfinished"></translation>
+        <translation>鿬</translation>
     </message>
     <message>
         <source>鿫</source>
-        <translation type="unfinished"></translation>
+        <translation>鿫</translation>
     </message>
 </context>
 </TS>

@@ -181,7 +181,7 @@ struct YS_advance{
 {42,"Mo","yellow",95.95,0,1,2,0,"molybdenum",{QObject::tr("钼")}},
 {43,"Tc","white",0,0,0,4,98.9072,"technetium",{QObject::tr("锝")}},
 {44,"Ru","yellow",101.07,0,2,2,0,"ruthenium",{QObject::tr("钌")}},
-{45,"Rh","blue",102.90549,0,2,5,0,"ruthenium",{QObject::tr("铑")}},
+{45,"Rh","blue",102.90549,0,2,5,0,"rhodium",{QObject::tr("铑")}},
 {46,"Pd","yellow",106.42,0,1,2,0,"palladium",{QObject::tr("钯")}},
 {47,"Ag","yellow",107.8682,0,2,4,0,"silver",{QObject::tr("银")}},
 {48,"Cd","yellow",112.414,0,4,3,0,"cadmium",{QObject::tr("镉")}},
